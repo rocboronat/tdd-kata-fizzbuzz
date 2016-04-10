@@ -1,3 +1,5 @@
+package translations;
+
 public class BuzzTranslation implements Translation {
     @Override
     public boolean meetsCondition(Integer value) {

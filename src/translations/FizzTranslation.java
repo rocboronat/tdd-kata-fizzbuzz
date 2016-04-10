@@ -1,3 +1,5 @@
+package translations;
+
 public class FizzTranslation implements Translation {
     @Override
     public boolean meetsCondition(Integer value) {

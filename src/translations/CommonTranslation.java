@@ -1,3 +1,5 @@
+package translations;
+
 public class CommonTranslation implements Translation {
     @Override
     public boolean meetsCondition(Integer value) {
